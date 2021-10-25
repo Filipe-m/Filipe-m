@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on actually nothing...
 - 📫 How to reach me twitter:@OxygenPotasium or instagram:@filipe.m_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-m&show_icons=true&theme=radical)
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-m&show_icons=true&theme=radical)
 
 <!---
 Filipe-m/Filipe-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
