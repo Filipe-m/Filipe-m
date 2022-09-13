@@ -1,7 +1,7 @@
 # Hello
 - 👋 Hi, I’m @Filipe-m
 - 👀 I’m interested in learn front-end web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Svelt
 - 📫 How to reach me: liebeoxygen@gmail.com
 <div align="center">
   <a href="https://github.com/Filipe-m">
@@ -13,6 +13,7 @@
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Filipe-Svelt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
  </div>
    
   ##
