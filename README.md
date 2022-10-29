@@ -1,7 +1,7 @@
 # Hello
 - 👋 Hi, I’m @Filipe-m
 - 👀 I’m interested in learn front-end web development
-- 🌱 I’m currently learning Svelt
+- 🌱 I’m currently learning React
 - 📫 How to reach me: liebeoxygen@gmail.com
 <div style="display: inline_block">
   <a href="https://github.com/Filipe-m">
@@ -10,10 +10,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Filipe-Svelt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
+  <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Filipe-Svelte" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
+  <img align="center" alt="Filipe-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
  </div>
    
   ##
