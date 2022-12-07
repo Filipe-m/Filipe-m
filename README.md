@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Filipe! 👋
 👩‍💻 I'm currently searching for a job in tech
 
 🧠 Learning About Next.js and more in depth React
