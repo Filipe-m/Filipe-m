@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m searching for work<br>👯 I’m looking to collaborate on front-end projects<br>🤝 I’m looking for help with React and Next.js<br>🌱 I’m currently learning React <br>💬 Ask me about JavaScript or Svelte
+👩‍💻 I'm currently searching for a job in tech
+
+🧠 Learning About Next.js and more in depth React
+
+👯‍ Looking to contribute to web developmente projects mainly in front-end
+
+🤔 Wanting help to underst more about back-end
+
+💬 Ask-me about React, Javascript, Html, Css or Svelte
+
+😄 Pronouns: he/him
 
 
 # 💻 Tech Stack:
