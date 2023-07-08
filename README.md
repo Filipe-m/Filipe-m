@@ -24,6 +24,7 @@
   ##
  
 <div> 
+   
   ![Snake animation](https://github.com/Filipe-m/Filipe-m/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
